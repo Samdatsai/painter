@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Painter\Painter\bin\Debug\net6.0-windows\Painter.exe
+C:\Users\User\Desktop\Painter\Painter\bin\Debug\net6.0-windows\Painter.deps.json
+C:\Users\User\Desktop\Painter\Painter\bin\Debug\net6.0-windows\Painter.runtimeconfig.json
+C:\Users\User\Desktop\Painter\Painter\bin\Debug\net6.0-windows\Painter.dll
+C:\Users\User\Desktop\Painter\Painter\bin\Debug\net6.0-windows\Painter.pdb
+C:\Users\User\Desktop\Painter\Painter\obj\Debug\net6.0-windows\Painter.Form1.resources
+C:\Users\User\Desktop\Painter\Painter\obj\Debug\net6.0-windows\Painter.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Painter\Painter\obj\Debug\net6.0-windows\Painter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Painter\Painter\obj\Debug\net6.0-windows\Painter.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Painter\Painter\obj\Debug\net6.0-windows\Painter.AssemblyInfo.cs
+C:\Users\User\Desktop\Painter\Painter\obj\Debug\net6.0-windows\Painter.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Painter\Painter\obj\Debug\net6.0-windows\Painter.dll
+C:\Users\User\Desktop\Painter\Painter\obj\Debug\net6.0-windows\refint\Painter.dll
+C:\Users\User\Desktop\Painter\Painter\obj\Debug\net6.0-windows\Painter.pdb
+C:\Users\User\Desktop\Painter\Painter\obj\Debug\net6.0-windows\Painter.genruntimeconfig.cache
+C:\Users\User\Desktop\Painter\Painter\obj\Debug\net6.0-windows\ref\Painter.dll
+C:\Users\User\Desktop\Painter\Painter\obj\Debug\net6.0-windows\Painter.Properties.Resources.resources
