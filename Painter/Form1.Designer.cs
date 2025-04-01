@@ -50,6 +50,7 @@
             pictureBox2 = new PictureBox();
             button2 = new Button();
             panel1 = new Panel();
+            button3 = new Button();
             menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
@@ -212,12 +213,24 @@
             // 
             // panel1
             // 
+            panel1.Controls.Add(button3);
             panel1.Controls.Add(button2);
             panel1.Controls.Add(pictureBox2);
             panel1.Location = new Point(0, 27);
             panel1.Name = "panel1";
             panel1.Size = new Size(529, 129);
             panel1.TabIndex = 5;
+            // 
+            // button3
+            // 
+            button3.BackgroundImage = Properties.Resources.pencil;
+            button3.BackgroundImageLayout = ImageLayout.Zoom;
+            button3.Location = new Point(159, 8);
+            button3.Name = "button3";
+            button3.Size = new Size(113, 118);
+            button3.TabIndex = 5;
+            button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
             // 
             // Form1
             // 
@@ -265,5 +278,6 @@
         private PictureBox pictureBox2;
         private Button button2;
         private Panel panel1;
+        private Button button3;
     }
 }

@@ -32,7 +32,6 @@ namespace Painter
                 {
                     Graphics g = Graphics.FromImage((Bitmap)pictureBox1.Image);
                     p.Color = pictureBox1.BackColor;
-                    p.Width = 10;
                     g.DrawLine(p, x, y, e.X, e.Y);
                     x = e.X;
                     y = e.Y;
@@ -41,6 +40,7 @@ namespace Painter
                 else
                 {
                     Graphics g = Graphics.FromImage((Bitmap)pictureBox1.Image);
+                    p.Color = Color.Black;
                     g.DrawLine(p, x, y, e.X, e.Y);
                     x = e.X;
                     y = e.Y;
@@ -122,14 +122,12 @@ namespace Painter
 
         private void button2_Click(object sender, EventArgs e)
         {
-            if (!wipe)
-            {
-                wipe = true;
-            }
-            else
-            {
-                wipe = false;
-            }
+            wipe = true;
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            wipe = false;
         }
     }
 }
